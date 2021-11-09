@@ -28,6 +28,6 @@ public class Bus implements Voyage{
 
     @Override
     public void reservation() {
-        System.out.println("Vous avez réserver une place dans ce bus ");
+        System.out.println("Have you booked a seat on this flight ");
     }
 }
