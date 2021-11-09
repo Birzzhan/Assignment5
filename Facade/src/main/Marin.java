@@ -28,7 +28,7 @@ public class Marin implements Voyage {
 
     @Override
     public void reservation() {
-        System.out.println("Vous avez réserver une place dans ce bateau ");
+        System.out.println("You have book a place in this boat ");
 
     }
 }
