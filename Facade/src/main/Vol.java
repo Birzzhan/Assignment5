@@ -29,7 +29,7 @@ public class Vol implements Voyage {
 
     @Override
     public void reservation() {
-        System.out.println("Vous avez réserver une place dans ce vol ");
+        System.out.println("Have you booked a seat on this flight ");
 
     }
 }
